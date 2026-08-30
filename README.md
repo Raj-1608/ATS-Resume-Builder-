@@ -2,6 +2,8 @@
 
 A single-page React app that builds two things from one form: an **ATS-friendly resume** (plain, single-column, parser-safe) and a **visual portfolio page**, live side by side as you type — with multiple templates for each, dark/light mode, an ATS-scan simulation with a readiness checklist, and a real PDF download for the resume.
 
+**[Click Here to Open Live Simulation]** (https://ats-resume-builder-mja1-ten.vercel.app/)
+
 ## Features
 
 - **Step-by-step form** — personal details, experience, education, skills, and portfolio projects
